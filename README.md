@@ -19,28 +19,18 @@
 
 **Contributions**: LaViT-15K dataset, semantic reconstruction loss, trajectory alignment loss, curriculum sensory gating.  
 
-[Github](https://github.com/Svardfox/LaViT)
+[LaViT Github](https://github.com/Svardfox/LaViT)
 
 ```bibtex
-
 @misc{wu2026lavitaligninglatentvisual,
-
    title={LaViT: Aligning Latent Visual Thoughts for Multi-modal Reasoning}, 
-
    author={Linquan Wu and Tianxiang Jiang and Yifei Dong and Haoyu Yang and Fengji Zhang and Shichaang Meng and Ai Xuan and Linqi Song and Jacky Keung},
-
    year={2026},
-
    eprint={2601.10129},
-
    archivePrefix={arXiv},
-
    primaryClass={cs.CV},
-
    url={https://arxiv.org/abs/2601.10129}, 
-
 }
-
 ```
 
 ### DMLR
