@@ -11,7 +11,7 @@
 
 ## Content
 
-### LaViT [Link](https://github.com/Svardfox/LaViT)
+### LaViT [:link:](https://github.com/Svardfox/LaViT)
 
 **Core challenge**: Student models frequently mimic a teacher’s textual output while attending to fundamentally divergent visual regions, effectively relying on language priors rather than grounded perception.  
 
