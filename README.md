@@ -7,11 +7,11 @@
 | [LaViT](#LaViT)  |      |                 |           |      |        |       |           |           |
 | [DMLR](#DMLR)    |      |                 |           |      |        |       |           |           |
 | [Monet](#Monet)  |      |                 |           |      |        |       |           |           |
-| [LVR}(LVR)       |      |                 |           |      |        |       |           |           |
+| [LVR}(#LVR)      |      |                 |           |      |        |       |           |           |
 
 ## Content
 
-### LaViT [:link:](https://github.com/Svardfox/LaViT)
+### LaViT [🔗](https://github.com/Svardfox/LaViT)
 
 **Core challenge**: Student models frequently mimic a teacher’s textual output while attending to fundamentally divergent visual regions, effectively relying on language priors rather than grounded perception.  
 
@@ -32,19 +32,8 @@
 }
 ```
 
-### DMLR
 
-[Github](https://mllm-dmlr.github.io/)
-
-**Core challenge**:  
-
-**Method**:  
-
-**Contributions**:  
-
-### Monet
-
-[Github](https://github.com/NOVAglow646/Monet)
+### DMLR [🔗](https://mllm-dmlr.github.io/)
 
 **Core challenge**:  
 
@@ -52,9 +41,15 @@
 
 **Contributions**:  
 
-### LVR
+### Monet [🔗](https://github.com/NOVAglow646/Monet)
 
-[Github](https://github.com/VincentLeebang/lvr)
+**Core challenge**:  
+
+**Method**:  
+
+**Contributions**:  
+
+### LVR [🔗](https://github.com/VincentLeebang/lvr)
 
 **Core challenge**:  
 
