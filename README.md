@@ -8,6 +8,10 @@
 | [DMLR](#DMLR)    |      |                 |           |      |        |       |           |           |
 | [Monet](#Monet)  |      |                 |           |      |        |       |           |           |
 | [LVR](#LVR)      |      |                 |           |      |        |       |           |           |
+| [ILVR](#ILVR)    |      |                 |           |      |        |       |           |           |
+| [SkiLa](#SkiLa)  |      |                 |           |      |        |       |           |           |
+
+Results are tested by VLMEvalKit,and these marked with "*" are taken from the corresponding paper.
 
 ## Content
 
@@ -54,6 +58,24 @@
 
 ### LVR 
 [🔗](https://github.com/VincentLeebang/lvr)
+
+**Core challenge**:  
+
+**Method**:  
+
+**Contributions**:  
+
+### ILVR 
+[🔗]()
+
+**Core challenge**:  
+
+**Method**:  
+
+**Contributions**:  
+
+### SkiLa
+[🔗]()
 
 **Core challenge**:  
 
