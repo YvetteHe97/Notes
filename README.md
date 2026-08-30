@@ -11,7 +11,7 @@
 
 ## Content
 
-### LaViT
+### LaViT [Link](https://github.com/Svardfox/LaViT)
 
 **Core challenge**: Student models frequently mimic a teacher’s textual output while attending to fundamentally divergent visual regions, effectively relying on language priors rather than grounded perception.  
 
@@ -19,7 +19,6 @@
 
 **Contributions**: LaViT-15K dataset, semantic reconstruction loss, trajectory alignment loss, curriculum sensory gating.  
 
-[LaViT Github](https://github.com/Svardfox/LaViT)
 
 ```bibtex
 @misc{wu2026lavitaligninglatentvisual,
