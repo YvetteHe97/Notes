@@ -21,7 +21,7 @@
 
 [Github](https://github.com/Svardfox/LaViT)
 
-\```bibtex
+```bibtex
 
 @misc{wu2026lavitaligninglatentvisual,
 
@@ -41,7 +41,7 @@
 
 }
 
-\```
+```
 
 ### DMLR
 
