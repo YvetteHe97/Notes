@@ -4,14 +4,14 @@
 
 | Method           | V*   | Hallusion Bench | ScienceQA | MMVP | MMStar | Blink | HRBench4k | HRBench8k |
 | ---------------- | ---- | --------------- | --------- | ---- | ------ | ----- | --------- | --------- |
-| [LaViT](#1. LaViT) |      |                 |           |      |        |       |           |           |
-| DMLR             |      |                 |           |      |        |       |           |           |
-| Monet            |      |                 |           |      |        |       |           |           |
-| LVR              |      |                 |           |      |        |       |           |           |
+| [LaViT](#LaViT)  |      |                 |           |      |        |       |           |           |
+| [DMLR](#DMLR)    |      |                 |           |      |        |       |           |           |
+| [Monet](#Monet)  |      |                 |           |      |        |       |           |           |
+| [LVR}(LVR)       |      |                 |           |      |        |       |           |           |
 
 ## Content
 
-### 1. LaViT
+### LaViT
 
 **Core challenge**: Student models frequently mimic a teacher’s textual output while attending to fundamentally divergent visual regions, effectively relying on language priors rather than grounded perception.  
 
@@ -43,7 +43,7 @@
 
 \```
 
-### 2. DMLR
+### DMLR
 
 [Github](https://mllm-dmlr.github.io/)
 
@@ -53,7 +53,7 @@
 
 **Contributions**:  
 
-### 3. Monet
+### Monet
 
 [Github](https://github.com/NOVAglow646/Monet)
 
@@ -63,7 +63,7 @@
 
 **Contributions**:  
 
-### 3. LVR
+### LVR
 
 [Github](https://github.com/VincentLeebang/lvr)
 
